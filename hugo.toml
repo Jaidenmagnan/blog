@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Jaiden's Blog"
-theme = 'Typo'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
