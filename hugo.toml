@@ -58,11 +58,11 @@ url = "/"
 
 [[params.menu]]
 name = "posts"
-url = "/blog/posts/"
+url = "/posts/"
 
 [[params.menu]]
 name = "about"
-url = "/blog/about/"
+url = "/about/"
 
 # Syntax highligth on code blocks
 [markup]
