@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaiden&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jaidenmagnan.github.io:1313/blog/</link>
     <description>Recent content on Jaiden&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaidenmagnan.github.io:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jaidenmagnan.github.io:1313/blog/about/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jaidenmagnan.github.io:1313/blog/about/</guid>
       <description>This is the about page of the website. Here, you can include information about yourself, your website, or anything relevant to your audience.</description>
     </item>
     <item>
       <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/posts/post1/</link>
+      <link>https://jaidenmagnan.github.io:1313/blog/posts/post1/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
+      <guid>https://jaidenmagnan.github.io:1313/blog/posts/post1/</guid>
       <description>An LSM Tree overview and Java implementation.</description>
     </item>
   </channel>
