@@ -1,4 +1,4 @@
-baseURL = 'https://jaidenmagnan.github.io/blog/'
+baseURL = 'https://jaidenmagnan.github.io/'
 languageCode = 'en-us'
 title = "Jaiden's Blog"
 theme = 'typo'
@@ -55,11 +55,11 @@ url = "/"
 
 [[params.menu]]
 name = "posts"
-url = "/posts"
+url = "/posts/"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "/about/"
 
 # Syntax highligth on code blocks
 [markup]
