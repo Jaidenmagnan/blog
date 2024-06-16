@@ -1,4 +1,4 @@
-baseURL = 'https://jaidenmagnan.github.io/'
+baseURL = 'https://jaidenmagnan.github.io/blog/'
 languageCode = 'en-us'
 title = "Jaiden's Blog"
 theme = 'typo'
