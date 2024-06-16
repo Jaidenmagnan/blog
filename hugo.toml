@@ -1,7 +1,10 @@
-baseURL = 'https://jaidenmagnan.github.io/'
+baseURL = 'https://jaidenmagnan.github.io/blog/'
 languageCode = 'en-us'
 title = "Jaiden's Blog"
 theme = 'typo'
+
+relativeURLs = true
+canonifyURLs = true
 
 [taxonomies]
 tag = 'tags'
